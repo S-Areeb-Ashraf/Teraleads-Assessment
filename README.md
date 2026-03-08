@@ -1,9 +1,10 @@
 # Teraleads Assessment
 
 ### Section 2: Python script is in this Repo
-
+---
 ## Output Of Script:
-
+---
+-
 =================================================================
   TERALEADS – TTS APPOINTMENT REMINDER MESSAGES
 =================================================================
